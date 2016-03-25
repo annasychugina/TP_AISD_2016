@@ -1,0 +1,2 @@
+gcc	-	GNU C 4.7.2	-static -Wall -O2 -std=gnu11 -lm
+g++	-	GNU C++ 4.7.2	-static -Wall -O2 -std=gnu++11 -lm
